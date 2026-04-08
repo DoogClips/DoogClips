@@ -1,0 +1,1 @@
+Drag and drop the updater.py in the plugins folder. Refresh the plugins, then pull the DoogClips_uppdater folder. Find the DoogClips_Updater/Updates/Apply_updates file and click to automove all new files into the old file location. Everything should work.
